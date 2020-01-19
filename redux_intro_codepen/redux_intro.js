@@ -1,3 +1,7 @@
+// add this to settings:
+// babel
+// https://cdnjs.cloudflare.com/ajax/libs/redux/4.0.5/redux.js + babel
+
 const {createStore} = Redux;
 console.log('hello')
 
